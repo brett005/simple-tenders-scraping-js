@@ -1,0 +1,23 @@
+{
+  "name": "simple-tenders-scraping-js",
+  "version": "1.0.0",
+  "description": "Simple tenders search on TED Tenders Electronic Daily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canutolab/simple-tenders-scraping-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canutolab/simple-tenders-scraping-js/issues"
+  },
+  "homepage": "https://github.com/canutolab/simple-tenders-scraping-js#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
